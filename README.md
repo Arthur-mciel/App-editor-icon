@@ -1,2 +1,3 @@
-#app simples#
-aplicativo onde roda um icone da minha pasta de edição de video
+ APP simples
+
+aplicativo simples com o icone das minhas pastas de edição
